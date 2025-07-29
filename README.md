@@ -104,3 +104,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 **Disclaimer**: This is a gambling application. Please participate responsibly and only with funds you can afford to lose. The smart contract code has been audited, but users should always verify contract addresses and understand the risks involved in blockchain transactions.
+
+contact Address:
+0xd9145CCE52D386f254917e481eB44e9943F39138
+<img width="1330" height="383" alt="Screenshot from 2025-07-29 13-07-46" src="https://github.com/user-attachments/assets/17ecdb8b-bd52-4d27-b9e8-c572467fbda6" />
+
